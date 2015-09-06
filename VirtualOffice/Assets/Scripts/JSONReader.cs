@@ -4,7 +4,7 @@ using System.Collections;
 using SimpleJSON;
 using System.IO;
 
-public class JSONReader {
+public class JSONReader : MonoBehaviour {
 	string inp_ln = "";
 
 	public List<MailObject> mailList = null;
@@ -12,7 +12,7 @@ public class JSONReader {
 	// Use this for initialization
 	void Start () {
 	
-		string mailJsonString = readTextFile ("Assets/mail.json");
+		string mailJsonString = readTextFile ("Assets/Scripts/mail.json");
 
 		Debug.Log (mailJsonString);
 
@@ -33,7 +33,7 @@ public class JSONReader {
 		mailJson = null;
 
 
-		string todoJsonString = readTextFile ("Assets/todo.json");
+		string todoJsonString = readTextFile ("Assets/Scripts/todo.json");
 		var todoJson = JSON.Parse (todoJsonString);
 		List<TodoObject> todoList = new List<TodoObject> ();
 		for (int i = 0; i<10; i++) {

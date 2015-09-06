@@ -75,11 +75,11 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRUGUI.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRVisionGuide.cs" />
-     <Compile Include="Assets\QueryEmails.cs" />
      <Compile Include="Assets\Scripts\CustomJointOrientation.cs" />
      <Compile Include="Assets\Scripts\JSONReader.cs" />
      <Compile Include="Assets\Scripts\MyoJoystick.cs" />
      <Compile Include="Assets\Scripts\MyoMovement.cs" />
+     <Compile Include="Assets\Scripts\QueryEmails.cs" />
      <Compile Include="Assets\Scripts\RayCasterObject.cs" />
      <Compile Include="Assets\Scripts\SimpleJSON.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
