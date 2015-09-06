@@ -1,15 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Myo\Scripts\ThalmicHub.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MyoMovement.cs">
     <Files>
-      <File FileName="Assets\Myo\Scripts\ThalmicHub.cs" Line="1" Column="1" />
-      <File FileName="Assets\Myo Samples\Scripts\JointOrientation.cs" Line="1" Column="1" />
-      <File FileName="Assets\OVR\Scripts\Util\OVRGamepadController.cs" Line="1" Column="1" />
-      <File FileName="Assets\OVR\Scripts\Util\OVRMainMenu.cs" Line="1" Column="1" />
-      <File FileName="Assets\OVR\Scripts\Util\OVRPlayerController.cs" Line="1" Column="1" />
-      <File FileName="Assets\Myo Samples\Scripts\SampleSceneGUI.cs" Line="1" Column="1" />
-      <File FileName="Assets\Myo\Scripts\ThalmicMyo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MyoJoystick.cs" Line="82" Column="10" />
+      <File FileName="..\..\LeapMotionProject\Assets\GameFolder\Scripts\Player\HMDMovement.cs" Line="1" Column="1" />
       <File FileName="Assets\Myo Samples\Scripts\ColorBoxByPose.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CustomJointOrientation.cs" Line="13" Column="20" />
+      <File FileName="..\..\LeapMotionProject\Assets\GameFolder\Scripts\Player\HMDRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MyoMovement.cs" Line="22" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

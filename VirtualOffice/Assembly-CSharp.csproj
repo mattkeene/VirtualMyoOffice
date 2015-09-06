@@ -59,7 +59,6 @@
      <Compile Include="Assets\Myo\Scripts\Myo.NET\libmyo.cs" />
      <Compile Include="Assets\Myo\Scripts\ThalmicHub.cs" />
      <Compile Include="Assets\Myo\Scripts\ThalmicMyo.cs" />
-     <Compile Include="Assets\MyoMovement.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRCameraRig.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRCommon.cs" />
      <Compile Include="Assets\OVR\Scripts\OVRDisplay.cs" />
@@ -76,7 +75,9 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRUGUI.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRVisionGuide.cs" />
+     <Compile Include="Assets\Scripts\CustomJointOrientation.cs" />
      <Compile Include="Assets\Scripts\MyoJoystick.cs" />
+     <Compile Include="Assets\Scripts\MyoMovement.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
      <None Include="Assets\Plugins\x86_64\donotdelete.txt" />
      <None Include="Assets\OVR\Shaders\TextShader3D.shader" />
